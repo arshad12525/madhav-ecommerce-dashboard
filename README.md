@@ -11,7 +11,7 @@ This Power BI project visualizes sales data for an ecommerce business, focusing 
 - Interactive Dashboard with filters
 
 ## 📷 Screenshots
-![Dashboard Preview](screenshots/dashboard.png)
+![Dashboard Preview](screenshot/dashboard.pdf)
 
 ## 🛠 Requirements
 - Power BI Desktop

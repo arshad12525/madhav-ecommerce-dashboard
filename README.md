@@ -1,6 +1,5 @@
 # madhav-ecommerce-dashboard
 Power BI Sales Dashboard for Madhav Ecommerce"
-# Madhav Ecommerce Sales Dashboard
 
 ## 📊 Overview
 This Power BI project visualizes sales data for an ecommerce business, focusing on profit, quantity sold, and payment methods.
